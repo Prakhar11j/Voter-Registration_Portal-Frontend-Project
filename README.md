@@ -24,7 +24,7 @@ Don't worry, now you don't need to circle around government office. All you need
 This is a demo website of National Voters' Registration portal. All Indian citizens who are eligible to vote can register themselves on this website to get their voter ID's. This portal allow users to fill (Form 6 of Electors Rule-1960) an application for inclusion of name in electoral roll.
 
 ## Link to the website
-https://qazimaazarshad.github.io/Voters-Registration-Portal/
+https://prakhar11j.github.io/Voter-Registration_Portal-Frontend-Project/Home.html
 
 ## Tech Stack
 
